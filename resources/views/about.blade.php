@@ -5,5 +5,5 @@
 @section('header', 'О блоге')
 
 @section('content')
-<p>Эксперименты с Laravel на Хекслете</p>
+<p>Мои эксперименты с Laravel в этом блоге</p>
 @endsection
